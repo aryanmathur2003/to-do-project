@@ -8,7 +8,7 @@ function Favorite() {
         return (
             <div className="favorites">
             <h2>No Favorites Yet</h2>
-            <p>Start Adding More Movies</p>
+            <p>Start Adding More Movies As Soon as you can </p>
 
             <div className="movies-grid">
             {favorites.map((movie) => (
